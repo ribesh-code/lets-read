@@ -33,6 +33,7 @@ dependencies:
   flutter:
     sdk: flutter
   intl: ^0.17.0
+  mockito: ^5.1.0
   uuid: ^3.0.5
 
 dev_dependencies:
